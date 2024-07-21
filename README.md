@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Manicka Meenakshi Somu
 - 👀 I’m interested in cloud computing and web development 
-- 🌱 I’m currently learning Python for data science 
+- 🌱 I’m currently learning Python for ML
 - Worked on mini projects in school like customer billing system , TANGEDCO step analysis etc.
 - Knowledge in C,C++,Python,Front end web development
+- Currently pursuing Meta's Professional backend development course
 - 
   
 
