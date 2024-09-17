@@ -4,7 +4,7 @@
 - Worked on mini projects in school like customer billing system , TANGEDCO step analysis etc.
 - Knowledge in C,C++,Python,Front end web development
 - Currently pursuing Meta's Professional backend development course
-- 
+  
   
 
 
